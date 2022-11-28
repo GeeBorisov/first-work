@@ -1,0 +1,70 @@
+.get-the-resr {
+    margin-top: 64px;
+}
+.the-srory {
+    display: flex;
+}
+.zagolovok {
+    padding-top: 128px;
+padding-left: 519px;
+
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+text-transform: uppercase;
+
+color: #3F3B3D;
+}
+.img-the-story {
+    margin-left: 180px;
+    padding-top: 31px;
+    width: 536px;
+}
+.wrapper-the-story {
+    margin-top: 31px;
+    background-color: #DCEAE9;;
+    margin-left: 8px;
+    width: 536px;
+    height: 536px;
+    align-items: center;
+  
+}
+.the-story-text {
+    width: 470px;
+    padding-top: 204px;
+    padding-left: 64px;
+ font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #3F3B3D;
+}
+.the-story-down-text {
+padding-top: 29px;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+color: #3F3B3D;
+}
+
+.get-the-resrt-cards {
+display: flex;
+}
+.get-the-resrt-cards-wrapper {
+    margin-left: 100px;
+margin-top: 64px;
+margin-bottom: 82px;
+width: 246px;
+}
+.get-the-rest-card-img {
+    padding-left: 57px;
+    padding-bottom: 18px;
+}
+.get-the-rest-card-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #3F3B3D;
+}

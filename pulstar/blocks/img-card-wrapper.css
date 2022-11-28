@@ -1,0 +1,48 @@
+.img-card-wrapper {
+    margin-left: 80px;
+    margin-top: 133px;
+    margin-bottom: 8px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 421px);
+    column-gap: 8px;
+}
+.img-card {
+    max-width: 421px;
+    position: relative;
+}
+.icon {
+   
+}
+.card-text {
+    padding-top: 393px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.card-text::after {
+    content: " ";
+    position: absolute;
+    height: 1px;
+    left: 2.85%;
+    right: 2.85%;
+    top: 380.33px;
+    background: rgba(0, 0, 0, 0.08);
+}
+.card-text  p {
+    margin-top: 0;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+text-transform: uppercase;
+color: #3F3B3D;
+}
+.img-text-hard {
+    padding-left: 12px;
+}
+.img-text-money {
+    padding-right: 12px;
+}

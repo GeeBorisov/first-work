@@ -1,0 +1,38 @@
+.man-photo-grid {
+display: grid;
+    grid-template-columns: repeat(auto-fit, 636px);
+    column-gap: 8px;
+    margin-left: 80px;
+}
+.men-photo {
+   
+    position: relative;
+    
+}
+.men-photo-card {
+ 
+    max-width: 636px;
+}
+.men-photo-text {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 379px;
+    padding-left: 247px;
+}
+.men-photo-top-text {
+font-weight: 400;
+font-size: 39px;
+line-height: 44px;
+letter-spacing: 0.44px;
+color: #FFFFFF;
+}
+.men-photo-down-text {
+    padding-top: 12px;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #FFFFFF;
+
+}

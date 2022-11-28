@@ -1,0 +1,63 @@
+.home {
+
+}
+.home-content {
+    position: relative;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 63px;
+    background-color: #3f3b3d;
+    width: 1265px;
+    height: 482px;
+}
+.home-hrading {
+    position: absolute;
+    padding-top: 260px;
+    padding-left: 64px;
+    width: 450px;
+font-weight: 400;
+font-size: 33px;
+line-height: 42px;
+color: #FFFFFF;
+}
+.home-btn {
+    margin-top: 373px;
+    margin-left: 64px;
+    /* padding: 26px 11px 26px 12px; */
+    padding-left: 26px;
+    padding-top: 11px;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #FFFFFF;
+
+width: 178px;
+height: 45px;
+background: #F14814;
+border-radius: 3px;
+
+}
+.btn-two {
+ 
+}
+.home-text {
+    position: absolute;
+    margin-top: 384px;
+    margin-left: 276px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.home-bg-img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 768px;
+    height: 562px;
+    margin-top: 82px;
+    margin-left: 592px;
+}
+.podval {
+    display: flex;
+}

@@ -1,0 +1,55 @@
+.ready-get-go {
+    text-align: center;
+}
+.redy-logo {
+    margin-left: 411px;
+    margin-bottom: 16px;
+
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1px;
+    color: #F14814;
+}
+.ready-text {
+    margin-bottom: 59px;
+    margin-left: 370px;
+    width: 700px;
+font-weight: 400;
+font-size: 27px;
+line-height: 37px;
+letter-spacing: 0.56px;
+color: #3F3B3D;
+}
+
+.card-ready-get-go {
+    display: flex;
+    
+}
+.card-redy {
+text-align: center;
+margin-left: 323px;
+}
+.card-redy + .card-redy {
+    margin-left: 47px;
+} 
+.card-redy-img {
+    padding-bottom: 13px;
+}
+.card-redy-heading {
+    padding-bottom: 11px;
+    font-weight: 400;
+font-size: 21px;
+line-height: 25px;
+text-align: center;
+color: #3F3B3D;
+}
+.card-redy-text {
+    width: 240px;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+color: #3F3B3D;
+}
+
